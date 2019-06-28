@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Network2</string>
+    <string name="send_request">отправить запрос</string>
+    <string name="upperCase">Верхний регистр</string>
+    <string name="lowerCase">Нижний регистр</string>
+    <string name="mirror">В обратном порядке</string>
+    <string name="text">Текст</string>
+    <string name="count">Кол-во символов</string>
+</resources>
